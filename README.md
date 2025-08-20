@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxime Bignolet
 =======================================================================================================================================
 
-I'm a Front End developer & Flutter developer
+I'm a Front End developer
 ---------------------------------------------
 
-I've been learning web development since 2021. I obtained a Bachelor's degree in Front End Development (specializing in React.js) and secured a full-time contract as a Nuxt.js & Typescript developer at a well-known company based in La Rochelle, France. In my free time, I've learned Flutter and built some apps, such as Baluch'app and Xpense.
+I've been learning web development since 2021. I obtained a Bachelor's degree in Front End Development (specializing in React.js) and secured a full-time contract as a Nuxt.js & Typescript developer at a well-known company based in La Rochelle, France.
 
 * 🌍  I'm based in La Rochelle, France.
 * 🖥️  See my portfolio at [Portfolio](http://maximedev.fr)
 * ✉️  You can contact me at [maxime.bignolet@gmail.com](mailto:maxime.bignolet@gmail.com)
-* 🧠  I'm learning Flutter.
 
 ### Skills
 
