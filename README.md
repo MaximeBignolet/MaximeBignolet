@@ -10,6 +10,8 @@ I've been learning web development since 2021. I obtained a Bachelor's degree in
 * 🖥️  See my portfolio at [Portfolio](http://maximedev.fr)
 * ✉️  You can contact me at [maxime.bignolet@gmail.com](mailto:maxime.bignolet@gmail.com)
 
+* [![MaximeBignolet Nuxter profile](https://nuxters.nuxt.com/card/MaximeBignolet/og.png)](https://nuxters.nuxt.com/MaximeBignolet)
+
 ### Skills
 
 
