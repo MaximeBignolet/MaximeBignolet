@@ -8,7 +8,7 @@ Building fast, scalable web applications at [Nom entreprise] 🚀
 💼 Currently working with Nuxt 3, TypeScript & TailwindCSS
 
 ## 🔭 Currently
-- Building VoicePostAI with Nuxt 3
+- Learning NestJS
   
 ### 💻 Tech Stack
 **Frontend:**  
