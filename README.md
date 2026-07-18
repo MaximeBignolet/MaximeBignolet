@@ -1,11 +1,11 @@
 # Hey, I'm Maxime 👋
 
 **Front-End Developer** specializing in Nuxt.js & TypeScript  
-Building fast, scalable web applications at [Nom entreprise] 🚀
+Building fast, scalable web applications at [Rhinos Solutions](https://github.com/rhinos-solutions) 🚀
 
 📍 Based in La Rochelle, France  
 🎓 Bachelor's in Front-End Development (React specialization)  
-💼 Currently working with Nuxt 3, TypeScript & TailwindCSS
+💼 Currently working with Nuxt 4, TypeScript & TailwindCSS
 
 ## 🔭 Currently
 - Learning NestJS
@@ -27,10 +27,10 @@ Git · VS Code · Vite
 
 ## 🚀 Featured Projects
 
-### [Personal coach showcase](https://github.com/MaximeBignolet/coach-site-vitrine)
-`Nuxt 4` `TypeScript` `TailwindCSS`
+### [Nuxt 4 + TypeScript + TailwindCSS starter](https://github.com/MaximeBignolet/nuxt4-typescript-tailwind-starter) ⭐
+`Nuxt 4` `TypeScript` `TailwindCSS` — production-ready starter template
 
-### [Nuxt modern starter template](https://github.com/MaximeBignolet/nuxt-starter-template)
+### [Personal coach showcase](https://github.com/MaximeBignolet/coach-site-vitrine)
 `Nuxt 4` `TypeScript` `TailwindCSS`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MaximeBignolet&color=0891b2)
@@ -39,7 +39,7 @@ Git · VS Code · Vite
 
 💼 Open to collaborating on Nuxt/Vue projects  
 📧 Reach me at: maxime.bignolet@gmail.com  
-🔗 [Portfolio](http://maximedev.fr)
+🔗 [Portfolio](https://maximedev.fr)
 
 ### Badges
 
