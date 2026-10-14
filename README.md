@@ -27,6 +27,10 @@ Git · VS Code · Vite
 
 ## 🚀 Featured Projects
 
+### [nuxt-wallet-kit](https://github.com/MaximeBignolet/nuxt-wallet-kit) 🆕
+`Nuxt module` `web3` `wagmi` — SSR-safe wallet connection with ready-to-use Nuxt UI components.
+Listed on [nuxt.com/modules](https://nuxt.com/modules/nuxt-wallet-kit) · [npm](https://www.npmjs.com/package/nuxt-wallet-kit)
+
 ### [Nuxt 4 + TypeScript + TailwindCSS starter](https://github.com/MaximeBignolet/nuxt4-typescript-tailwind-starter) ⭐
 `Nuxt 4` `TypeScript` `TailwindCSS` — production-ready starter template
 
