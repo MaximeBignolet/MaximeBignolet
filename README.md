@@ -48,5 +48,3 @@ Git · VS Code · Vite · Vitest · Playwright
 ### Badges
 
 [![MaximeBignolet Nuxter profile](https://nuxters.nuxt.com/card/MaximeBignolet/og.png)](meBignolet)
-
-![Profile Views](https://komarev.com/ghpvc/?username=MaximeBignolet&color=0891b2)
